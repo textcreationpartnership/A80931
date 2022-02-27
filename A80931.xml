@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honorable, the Lord Lieutenant of Ireland, to the Honorable William Lenthall Esq; Speaker of the Parliament of England, concerning the taking in and surrendring of Enistery. Carrick Town and castle. Passage-Fort. Bandon-Bridge. Kingsale, and the fort there. Die Mercurii, 12. Decembr. 1649. Ordered by the Parliament, that this letter be forthwith printed and published, and read in all churches and chappels in and about the City of London, late lines of communication, and bills of mortality. Hen: Scobell, Cleric. Parliament.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80931</idno>
+            <idno type="STC">Wing C7100</idno>
+            <idno type="STC">Thomason E584_16</idno>
+            <idno type="STC">ESTC R3521</idno>
+            <idno type="EEBO-CITATION">99872404</idno>
+            <idno type="PROQUEST">99872404</idno>
+            <idno type="VID">165489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E584[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honorable, the Lord Lieutenant of Ireland, to the Honorable William Lenthall Esq; Speaker of the Parliament of England, concerning the taking in and surrendring of Enistery. Carrick Town and castle. Passage-Fort. Bandon-Bridge. Kingsale, and the fort there. Die Mercurii, 12. Decembr. 1649. Ordered by the Parliament, that this letter be forthwith printed and published, and read in all churches and chappels in and about the City of London, late lines of communication, and bills of mortality. Hen: Scobell, Cleric. Parliament.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: O. Cromvvell.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165489:1" rendition="simple:additions"/>
+            <p>A LETTER From the Right Honorable, The Lord Lieutenant of <hi>Ireland,</hi> TO The Honorable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England,</hi> Concerning The Taking in and Surrendring OF
+<list>
+                  <item>
+                     <hi>Eniſtery.</hi>
+                  </item>
+                  <item>
+                     <hi>Carrick</hi> Town and Caſtle.</item>
+                  <item>
+                     <hi>Paſſage-Fort.</hi>
+                  </item>
+                  <item>
+                     <hi>Bandon-Bridge.</hi>
+                  </item>
+                  <item>
+                     <hi>Kingſale,</hi> and the Fort there.</item>
+               </list>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <head>
+                           <date>
+                              <hi>Die Mercurii, 12 Decembr. 1649.</hi>
+                           </date>
+                        </head>
+                        <p>ORdered by the Parliament, That this Letter be forth<g ref="char:EOLhyphen"/>with printed and publiſhed, and Read in all Churches and Chappels in and about the City of <hi>London,</hi> late Lines of Communication, and Bills of Mortality.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Huſband,</hi> Printer to the Parliament of <hi>England.</hi> 1649.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:165489:2"/>
+            <head>
+               <date>
+                  <hi>Die Mercurii,</hi> 12 <hi>Decemb.</hi> 1649.</date>
+            </head>
+            <head type="sub">A Letter from the Lord Lieutenant from <hi>Ireland,</hi> was this day read.</head>
+            <p>ORdered by the Parliament, That the ſaid Letter be forthwith printed and publiſhed, and that the ſame be ſent to the Lord Mayor of <hi>London,</hi> and that the Lord Mayor do take care, that the ſaid Letters be ſent and diſperſed to the ſeveral Miniſters of the ſe<g ref="char:EOLhyphen"/>veral Pariſhes in and about the City of <hi>London,</hi> late lines of Communication and Bills of Mortality.</p>
+            <p>
+               <hi>Ordered,</hi> That publique Thanks be given to Almighty God on the next Lords Day, in all the ſeveral Churches in and about the City of <hi>London,</hi> and within the late lines of Communication, and Bills of Mortality, for his great Mercies, in giving us theſe ſeaſonable and great Victories in <hi>Ireland;</hi> And that this Letter of the Lord Lieutenant General be then publiquely read in all the ſaid ſeveral Churches in and about the ſaid City, and within the lines of Communication and Bills of Mor<g ref="char:EOLhyphen"/>tality.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:165489:2"/>
+            <head>For the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Enemy being quartered between the two Rivers of <hi>Noer</hi> and the <hi>Barrow,</hi> and Maſters of all the Paſſages thereupon, and giving out their Reſolution to fight us thereby, as we conceived laboring to get reputation in the Countreys, and acceſſion of more ſtrength; It was thought fit our Army ſhould march towards them, which accordingly upon Tueſday the fifteenth inſtant was done. The Major General and Lieutenant General (leaving me very ſick at <hi>Roſs</hi> be<g ref="char:EOLhyphen"/>hinde them) with two Battering Guns, advanced to<g ref="char:EOLhyphen"/>wards <hi>Eniſtery,</hi> a little walled Town about five miles from <hi>Roſs,</hi> upon the <hi>Noer,</hi> on the South-ſide thereof, which was poſſeſſed by the Enemy; but a party of our men, under the command of Colonel <hi>Abbot,</hi> the night before approaching the Gates, and attempting to fire the ſame, the Enemy ran away through the River, lea<g ref="char:EOLhyphen"/>ving good ſtore of Proviſions behinde them: Our Commanders hoped by gaining of this Town, to have gained a Paſs, but indeed there fell ſo much ſudden wet, as made the River unpaſſable, by that time the Army was come up: Whereupon, hearing the Enemy lay about two miles off upon near <hi>Thomas</hi> Town, a pretty large walled Town upon the <hi>Noer,</hi> on the North ſide thereof having a Bridge over the River; our Army marched thither, but the Enemy had broke the Bridge, and Gariſoned the Town, and in the view of our Army marched away to <hi>Kilkenny,</hi> ſeeming to decline an En<g ref="char:EOLhyphen"/>gagement,
+<pb n="4" facs="tcp:165489:3"/>
+although I believe they were double our numbers, which they had power to have neceſſitated us unto, but was no ways in our power (if they would ſtand upon the advantage of the Paſſage) to engage them unto, nor indeed to continue out two days longer, having almoſt ſpent all the bread they carried with them: Whereupon (ſeeking God) for direction, they reſolved to ſend a good party of Horſe and Dragoons under Colonel <hi>Reynolds</hi> to <hi>Carrick,</hi> and to march the reſidue of their Army back towards <hi>Roſs,</hi> to gain more bread for the proſecution of that deſign, if by the bleſ<g ref="char:EOLhyphen"/>ſing of God it ſhould take. Colonel <hi>Reynolds</hi> march<g ref="char:EOLhyphen"/>ing with twelve Troops of Horſe, and three Troops of Dragoons, came betimes in the morning to <hi>Carrick,</hi> where dividing himſelf into two parties, whileſt they were amuſed with the one, he entred one of the Gates with the other; which the Soldiers perceiving, divers of them and their Officers eſcaped over the River in Boats; about a hundred Officers and Soldiers taken Priſoners, without the loſs of one man of our part: In this place is a very good Caſtle, and one of the ancientſt Seats belonging to the Lord of <hi>Ormond</hi> in <hi>Ireland;</hi> the ſame was rendred without any loſs alſo; where was good ſtore of Proviſions for the refreſhing of our men. The Colonel giving a ſpeedy intelligence of Gods mercy in this, We agreed to march with all con<g ref="char:EOLhyphen"/>venient ſpeed, the reſidue of the Army up thither, which accordingly was done upon Wedneſday and Thurſday, the 21 and 22 of this inſtant; and through Gods mer<g ref="char:EOLhyphen"/>cy I was enabled to bear them company. Being come thither, we did look at it as an eſpecial good hand of Providence to give us this place, inaſmuch as it gives us a paſſage over the River <hi>Sewer,</hi> to the City of <hi>Water<g ref="char:EOLhyphen"/>ford,</hi>
+               <pb n="5" facs="tcp:165489:3"/>
+and indeed into <hi>Munſter,</hi> to our Shipping and Proviſions, which before were beaten from us out of our <hi>Waterford</hi> Bay, by the Enemies Guns. It hath gi<g ref="char:EOLhyphen"/>ven us alſo opportunity, to beſiege or block up <hi>Water<g ref="char:EOLhyphen"/>ford:</hi> And we hope our Gracious God will therein direct us alſo. It hath given us alſo the opportunity of our Guns, Ammunition, and Victuals; and in<g ref="char:EOLhyphen"/>deed Quarter for our Horſe, which could not have ſubſiſted much longer; ſo ſweet a mercy was the giving of this little place unto us, having reſted there a night, and by noon the next day gotten our Army over the River, leaving Col: <hi>Reynolds</hi> with about One hundred and fifty Foot, his own ſix Troops of Horſe, and one Troop of Dragoons, with a very little Am<g ref="char:EOLhyphen"/>munition, according to the ſmalneſs of our marching ſtore: We marched away towards <hi>Waterford</hi> upon Friday 23, and on Saturday about noon came before the City; the Enemy not being a little troubled at this unſuſpected buſineſs (which indeed was the meer guid<g ref="char:EOLhyphen"/>ance of God) marches down with great fury towards <hi>Carrick,</hi> with their whole Army, reſolving to ſwallow it up; And upon Saturday the Four and twentieth, aſſaults the place round, thinking to take it by ſtorm; but God had otherwiſe determined, for the Troopers and the reſt of the Soldiers with ſtones, did ſo pelt them, they continuing very near four hours under the walls, having burnt the Gates, which our men Baro<g ref="char:EOLhyphen"/>cado'd up with ſtones; and likewiſe digged under the walls, and ſprung a ſmall Mine, which flew in their own faces; but they loſt above forty or fifty men dead under the walls, and have drawn off, as ſome ſay, near Four hundred more, which they buried up and down the Fields, beſides what are wounded, and as <hi>In<g ref="char:EOLhyphen"/>chiquin</hi>
+               <pb n="6" facs="tcp:165489:4"/>
+himſelf confeſſed, in the hearing of ſome of their Soldiers lately come to us, hath loſt him above One thouſand men: The Enemy was drawing off his dead a good part of the night; they were in ſuch haſte upon the aſſault, that they killed their own Trumpet, as he was returning with an Anſwer to a Summons ſent by them; both in the taking and defending of this place, Col: <hi>Reynolds</hi> his carriage was ſuch, as deſerves much honor. Upon our coming before <hi>Waterford,</hi> I ſent the Lieutenant General with a Regiment of Horſe, and three Troops of Dragoons, to endeavor the reducing of <hi>Paſſage-Fort,</hi> a very large Fort, with a Caſtle in the midſt of it, having five Guns planted in it, and com<g ref="char:EOLhyphen"/>manding the River better then <hi>Duncannon,</hi> it not being much above Muſquet ſhot over where this Fort ſtands, and we can bring up hither Ships of Three hundred Tuns, without any danger from <hi>Duncannon;</hi> upon the attempt, though our materials were not very apt for the buſineſs, yet the Enemy called for Quarter, and had it, and we the place: We alſo poſſeſſed the Guns, which the Enemy had planted to beat our Ships out of the Bay, two miles below. By the taking of this Fort, we ſhall much ſtreighten <hi>Duncannon</hi> from proviſions by water, as we hope they are not in a condition to get much by Land; beſides the advantage it is of to us, to have proviſions to come up the River. It hath pleaſed the Lord whileſt theſe things hath been thus tranſacting here, to adde to your intereſt in <hi>Munſter, Bandon-Bridge,</hi> the Town as we hear upon the matter, thruſting out yong <hi>Jepſon,</hi> who was their Governor, or elſe he de<g ref="char:EOLhyphen"/>ſerting it upon that jealouſie; As alſo <hi>Kingſale,</hi> and the Fort there, out of which Fort Four hundred men marched upon Articles when it was ſurrendred, ſo that
+<pb n="7" facs="tcp:165489:4"/>
+now by the good hand of the Lord, your intereſt in <hi>Munſter</hi> is near as good already, as ever it was ſince this War begun. I ſent a party about two days ago to my Lord of <hi>Broughil,</hi> from whom I expect to have an Accompt of all. Sir, what can be ſaid to theſe things? is it an Arm of Fleſh that doth theſe things? is it the Wiſdom and Councel, or Strength of men? it is the Lord onely; God will curſe that man and his houſe, that dares to think otherwiſe. Sir, you ſee the Work is done by divine leading: God gets into the hearts of men, and perſwades them to come under you. I tell you, a conſiderable party of your Army, is fitter for an Hoſpital then the Field: If the Enemy did not know it, I ſhould have held it impo<g ref="char:EOLhyphen"/>litique to have writ it: They know it, yet they know not what to do. I humbly beg leave to offer a word or two; I beg of thoſe that are faithful, that they give glory to God; I wiſh it may have influence upon the Hearts and Spirits of all thoſe that are now in place of Government, in the greateſt Truſt, that they may all in Heart draw neer unto God, giving him glory by holineſs of life and converſation, That theſe unſpeak<g ref="char:EOLhyphen"/>able Mercies, may teach diſſenting Brethren on all ſides to agree, at leaſt in praiſing God. And if the Father of the Family be ſo kinde, why ſhould there be ſuch jar<g ref="char:EOLhyphen"/>rings, and heart-burnings amongſt the Children? And if it will not yet be received, that theſe are Seals of Gods Approbation of your great change of Govern<g ref="char:EOLhyphen"/>ment, which indeed was no more yours, then theſe Victories and Succeſſes are ours: with us ſay even the moſt unſatisfied heart, That both are the Righteous Judgments, and Mighty Works of God; that he hath pulled down the Mighty from his Seat; that calls to
+<pb n="8" facs="tcp:165489:5"/>
+accompt innocent blood; that he thus breaks the Ene<g ref="char:EOLhyphen"/>mies of his Church in peeces; and let them not be ſul<g ref="char:EOLhyphen"/>len, but praiſe the Lord; and think of us as they pleaſe, and we ſhall be ſatisfied, and pray for them, and wait upon our God; and we hope we ſhall ſeek the Welfare and Peace of our Native Countrey; and the Lord give them hearts to do ſo too. Indeed I was conſtrain<g ref="char:EOLhyphen"/>ed in my Bowels to write thus much: I ask your par<g ref="char:EOLhyphen"/>don, and reſt</p>
+            <closer>
+               <signed>Your moſt humble Servant, O. CROMVVEL.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
